@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AleksanderBabii
-- 👀 I’m interested in prototyping game mechanics, creating a levels.
-- 🌱 I’m currently learning Game design in Wroclaw, C# and C++.
-- 💞️ I’m looking to collaborate on creating different games.
+- 👀 Creating games and apps
+- 🌱 Graduated from University of DSW in Wrocław
 - 📫 How to reach me - mail me a.anchypolivski@gmail.com
 
 <!---
