@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksanderBabii
-- 👀 Creating games and apps
-- 🌱 Graduated from University of DSW in Wrocław
+- 👀 Creating games and 3D models
+- 🌱 Graduated from University of DSW in Wroclaw
 - 📫 How to reach me - mail me a.anchypolivski@gmail.com
 
 <!---
