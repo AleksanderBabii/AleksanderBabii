@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AleksanderBabii
+- 👋 Hi, I’m @Alex
 - 👀 Creating games, web pages and 3D models
 - 🌱 Graduated from University of DSW in Wroclaw
 - 📫 How to reach me - mail me a.anchypolivski@gmail.com
