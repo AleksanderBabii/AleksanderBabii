@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alex
+- 👋 Hi, I’m Sasha
 - 👀 Creating games, web pages and 3D models
 - 🌱 Graduated from University of DSW in Wroclaw
-- 📫 How to reach me - mail me a.anchypolivski@gmail.com
+- 📫 How to reach me - mail me sasha.babiy70@gmail.com
 
 <!---
 AleksanderBabii/AleksanderBabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
